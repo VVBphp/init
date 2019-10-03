@@ -1,0 +1,12 @@
+{
+  "name": "vvb/init",
+  "description": "init",
+  "minimum-stability": "stable",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Vladimir Bliskun",
+      "email": "vvb@vvbphp.ru"
+    }
+  ]
+}
