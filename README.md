@@ -1,3 +1,3 @@
 # init
 
-Attaching to packagist.com
+Attaching to packagist.org
